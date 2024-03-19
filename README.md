@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="851" height="315" src="https://i.postimg.cc/m21CSWWk/png.png">
+</p>
 <h1 align="center">Hi 👋, I'm Zul Fitri Hanizan</h1>
 <h3 align="center">Aspiring Data Analyst. Empowering Businesses with Data.</h3>
 
