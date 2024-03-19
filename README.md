@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2024/01/17/10/03/analytics-8514067_640.jpg)
 <h1 align="center">Hi 👋, I'm Zul Fitri Hanizan</h1>
 <h3 align="center">Aspiring Data Analyst. Empowering Businesses with Data.</h3>
 
